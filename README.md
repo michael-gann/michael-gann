@@ -2,7 +2,7 @@
 
 The journey I took to become a Software Developer...
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React Logo">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" width="50" height="50" alt="React Logo">
  
 - 📫 How to reach me: mchlgnn@protonmail.com
 <!--
