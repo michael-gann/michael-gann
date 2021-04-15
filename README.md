@@ -4,7 +4,7 @@ The journey I took to become a Software Developer...
 
 ---
 
-🧰 Technical Toolkit
+## 🧰 Technical Toolkit
 
 
 
@@ -18,8 +18,11 @@ The journey I took to become a Software Developer...
 
 [![Michaels GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-gann&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+## Contact
  
-- 📫 How to reach me: mchlgnn@protonmail.com
+- 📫 Best way to reach me: mchlgnn@protonmail.com
 <!--
 **michael-gann/michael-gann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
