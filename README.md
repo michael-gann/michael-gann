@@ -14,7 +14,7 @@ The journey I took to become a Software Developer...
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gann&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-gann&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Michaels GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-gann&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
