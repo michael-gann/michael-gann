@@ -2,7 +2,7 @@
 
 The journey I took to become a Software Developer...
 
- <i class="devicon-react-original-wordmark colored"></i>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
  
 - 📫 How to reach me: mchlgnn@protonmail.com
 <!--
