@@ -8,7 +8,7 @@ The journey I took to become a Software Developer had a few twists and turns but
 
 As a Software Developer, I love that I'm able to take an idea from nothing to physically (digitally) interacting with it and reaping the benefits of my hard work. If you haven't, I encourage you to take a look at my favorite personal project, [buttery](https://github.com/michael-gann/buttery), where I've built an app based off of one of my passions, baking.
 
-I've learned there's rarely ever one way to do something and that the hardest part when making a decision is figuring out if the pros outweigh the cons, which gets more difficult the more pieces you try to fit together. Luckily, I love figuring out how things work, whether in video games or the tech world, and exploiting that knowledge to be as efficient as possible when working with a technology.
+I've learned there's rarely ever one way to do something and that the hardest part when making a decision is figuring out if the pros outweigh the cons, which gets more difficult the more pieces you try to fit together. Luckily, I love figuring out how things work, whether in video games or the tech world, and exploiting that knowledge to be as efficient as possible making a decision.
 
 I have two dogs, one cat, and one bonsai tree under my care. Let me know if you want to chat, I'd love to [connect](https://www.linkedin.com/in/michael-gann-1a2161201/)!
 
