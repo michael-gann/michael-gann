@@ -1,4 +1,10 @@
-### Hi! 👋 I'm Michael. Musician => Construction Worker => Software Developer
+# Michael Gann
+
+###  👋 'ello there!
+
+## Musician => Construction Worker => Software Developer
+
+## My Journey
 
 The journey I took to become a Software Developer...
 
