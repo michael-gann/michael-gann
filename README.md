@@ -4,7 +4,7 @@
 
 ## My Journey
 
-The journey I took to become a Software Developer had a few twists and turns but I know I found it at the right time in my life. Everything else I learned along the way contributes in some way to my skills as a Software Developer, whether it's how music showed me how to think differently and work as one important piece of a whole, or 
+The journey I took to become a Software Developer had a few twists and turns but I know I found it at the right time in my life. Everything else I learned along the way contributes in some way to my skills as a Software Developer, whether it's how music showed me how to think differently and work as one important piece of a whole, or how construction taught me about perseverance and integrity.
 
 As a Software Developer, I love that I'm able to take an idea from nothing to physically (digitally) interacting with it and reaping the benefits of my hard work. If you haven't, I encourage you to take a look at my favorite personal project, [buttery](https://github.com/michael-gann/buttery), where I've built an app based off of one of my passions, baking.
 
