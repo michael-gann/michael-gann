@@ -1,6 +1,6 @@
 ###  👋 'ello there! I'm Michael!
 
-## Musician => Construction Worker => Software Developer
+## Musician => Construction => Software Developer
 
 ## My Journey
 
